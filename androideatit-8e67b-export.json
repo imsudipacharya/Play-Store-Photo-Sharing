@@ -1,0 +1,52 @@
+{
+  "Category": {
+    "01": {
+      "Name": "FINGER FOODS",
+      "Image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Fingerfood.jpg"
+    },
+    "02": {
+      "Name": "Soup",
+      "Image": "https://i.ytimg.com/vi/o91gT73mQhg/maxresdefault.jpg"
+    },
+    "03": {
+      "Name": "SANDWITCHES",
+      "Image": "https://c.ndtvimg.com/2019-03/rlh4rojo_protein-rich-sandwich-ideas_625x300_04_March_19.jpg"
+    },
+    "04": {
+      "Name": "Soup",
+      "Image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Egg_Sandwich.jpg"
+    },
+    "05": {
+      "Name": "CHINESE FOOD",
+      "Image": "https://i.ndtvimg.com/i/2017-08/noodles-620x350_620x350_41502436420.jpg"
+    },
+    "06": {
+      "Name": "Soup",
+      "Image": "https://i.ytimg.com/vi/o91gT73mQhg/maxresdefault.jpg"
+    },
+    "07": {
+      "Name": "FINGER FOODS",
+      "Image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Fingerfood.jpg"
+    },
+    "08": {
+      "Name": "Soup",
+      "Image": "https://i.ytimg.com/vi/o91gT73mQhg/maxresdefault.jpg"
+    }
+  },
+
+
+  "User" : {
+    "9823394620" : {
+      "Name" : "Sudip",
+      "Password" : "1234"
+    },
+    "9843555954" : {
+      "Name" : "Bishnu",
+      "Password" : "5678"
+    },
+    "9869031740" : {
+      "name" : "Maya Acharya",
+      "password" : "12345678"
+    }
+  }
+}
