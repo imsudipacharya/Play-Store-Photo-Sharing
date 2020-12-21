@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Play-Store-Photo-Sharing">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Archive 2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/zip.zip!/" />
+      <root url="jar://$PROJECT_DIR$/app-screenshots.zip!/" />
+      <root url="jar://$PROJECT_DIR$/Archive.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
